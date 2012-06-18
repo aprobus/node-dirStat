@@ -2,7 +2,7 @@
   "author": "Aaron Probus <aprobus15@gmail.com>",
   "name": "dirStat",
   "description": "The result of fs.stat on all files in a directory",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/aprobus/node-dirStat.git"
@@ -14,7 +14,7 @@
     "stat"
   ],
   "engines": {
-    "node": "~0.7.7 || 0.8"
+    "node": ">=0.7.7"
   },
   "dependencies": {
     "async": "~0.1.22"
