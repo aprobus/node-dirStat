@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/aprobus/node-dirStat.png)](http://travis-ci.org/aprobus/node-dirStat)
 # dirStat
 
 Run stat on all files in a directory
